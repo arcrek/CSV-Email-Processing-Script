@@ -1,0 +1,8 @@
+# Core dependencies
+pandas>=1.3.0
+
+# Build tools (optional - only needed for creating executables)
+pyinstaller>=5.0.0
+
+# Note: tkinter is included with Python standard library
+# Note: No additional GUI libraries required
